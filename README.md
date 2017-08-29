@@ -1,5 +1,6 @@
 # django_blog
-A web blog in django framework
+A web blog in django framework  
+[Demo available here](http://hsuanhsuantsai.pythonanywhere.com/)
 
 ## Usage
 * Check the following in settings.py  
